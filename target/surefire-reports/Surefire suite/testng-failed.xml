@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test name="Surefire test(failed)" preserve-order="true">
+    <classes>
+      <class name="SwapneshPatelAcademy.TestLogin">
+        <methods>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- SwapneshPatelAcademy.TestLogin -->
+      <class name="SwapneshPatelAcademy.ErrorValidationTest">
+        <methods>
+          <include name="submitOrder"/>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- SwapneshPatelAcademy.ErrorValidationTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
