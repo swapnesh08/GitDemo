@@ -15,5 +15,17 @@ public class NewCode {
 
 		
 	}
+	public void Rest() {
+		System.out.println("first rest  post");
+		System.out.println("second rest post");
+		System.out.println("third rest post");
+		
+		System.out.println("fourth rest post");
+
+		
+
+
+		
+	}
 
 }
