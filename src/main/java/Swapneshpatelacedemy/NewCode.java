@@ -39,6 +39,9 @@ public class NewCode {
 
 		
 	}
+	public void IosApp() {
+		System.out.println("first rest  post");
+		System.out.println("second rest post");
 
-
+	}
 }
